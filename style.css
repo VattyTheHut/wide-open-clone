@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.moble-nav {
+
+}
+
+.moble-nav-link{
+
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+
+}
+
+.moble-nav-link-item{
+
+  margin-left: 10em;
+
+}
