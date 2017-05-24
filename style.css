@@ -23,3 +23,80 @@
   margin-left: 10em;
 
 }
+
+.roboto{
+  font-family: 'Roboto', sans-serif;
+}
+.lato{
+  font-family: 'Lato', sans-serif;
+
+}
+.oswald{
+  font-family: 'Oswald', sans-serif;
+}
+
+
+.x{
+  margin-top: 30px;
+  margin-left: 30%;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  float: right;
+  padding: 10px;
+}
+
+.logo{
+  width: 160px;
+  margin-left: 3%;
+  margin-top: 42;
+  position:absolute;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.intro-bar{
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  color: #fff;
+}
+
+.first-img{
+  background-image: url(http://cdn01.wideopentech.com/themes/wot-2013-gm/_/img/wot-masthead-dark.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+
+}
+
+.workshop{
+  color: #fff;
+  font-family: "Lato";
+  font-size: 700%;
+  margin-left: 20%;
+  margin-top: 20%;
+  position: absolute;
+
+}
+
+.yourDigital{
+  color: #fff;
+  font-size: 100%;
+  font-family: "Lato";
+  margin-left: 20%;
+  margin-top: 20%;
+  position: absolute;
+}
+
+
+.hhiw{
+  color: #6A787C;
+  background-color: #F0F0F0;
+  font-family: 'Open Sans', sans-serif;
+}
